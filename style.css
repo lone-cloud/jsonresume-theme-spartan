@@ -76,7 +76,6 @@ ul {
 }
 div.item {
 	margin: 1em 0 2em;
-	padding-bottom: 2em;
 }
 div.item:last-of-type {
 	margin: 0;
